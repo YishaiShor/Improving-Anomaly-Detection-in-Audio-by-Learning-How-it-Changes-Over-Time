@@ -11,7 +11,7 @@ from temporal context may improve the performance of finding anomalies in audio 
 The learning architecture of the normal group features includes three processes:
 
 
-![image](https://user-images.githubusercontent.com/98801941/197698350-8e558a61-21ba-4b90-8c3c-e9f5c932b3d2.png)
+![image](https://user-images.githubusercontent.com/98801941/197716210-f68281e9-2940-4668-83bf-f0d32ab2ae4e.png)
 
 1. Learning the direction of change of the normal group
 2. Learning the rate of change of the normal group
