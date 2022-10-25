@@ -1,4 +1,4 @@
-# Improving Anomaly Detection in Audio by Learning How does it Change Over Time
+# Improving Anomaly Detection in Audio by Learning How it Changes Over Time
 
 This project examines a new way to detect anomalies in audio files via self-supervised
 learning. The proposed method uses the fact that audio files contain information about a sequence of
